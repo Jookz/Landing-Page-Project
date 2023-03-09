@@ -1,8 +1,10 @@
-.header {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.header, .footer {
     background-color: #1F2937;
     color: white;
     display: flex;
     justify-content: space-between;
-    height: 100px;
+    padding: 80px;
 }
 
