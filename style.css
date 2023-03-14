@@ -10,10 +10,12 @@
 
 .top-row {
     display: flex;
+    flex-wrap: nowrap;
     justify-content: space-between;
     flex: 1;
 }
 
 img {
     flex: 1;
+
 }
