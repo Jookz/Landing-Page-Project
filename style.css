@@ -27,6 +27,7 @@ li {
 
 .lower-header {
     display: flex;
+    padding: 50px;
 }
 
 img {
