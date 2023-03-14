@@ -28,6 +28,11 @@ li {
 .lower-header {
     display: flex;
     padding: 50px;
+    align-items: center;
+}
+
+#right {
+    display: flex;
 }
 
 img {
